@@ -19,7 +19,6 @@ There are a few files in here:
     A file containing compilation information.  If you have a working make,
     you can compile the code in this directory by simply running the command `make`.
 
-
 You can add the file text with the brainfuck code and run the program using the commands:
 ```
 make
