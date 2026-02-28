@@ -25,5 +25,5 @@ You can add the file text with the brainfuck code and run the program using the 
 make
 ```
 ```
-./brainfuck <file.txt>
+./brainfuck hello_world.txt
 ```
